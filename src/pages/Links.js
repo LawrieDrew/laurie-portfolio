@@ -15,7 +15,10 @@ function Links() {
                 <li><a href="https://guarded-atoll-77888.herokuapp.com/">Yupp! Deployed</a></li>
                 <li><a href="https://github.com/LawrieDrew/Day-Planner.git">My Fabulous Day Github</a></li>
                 <li><a href="https://lawriedrew.github.io/Day-Planner/">My Fabulous Day Deployed</a></li>
+                <li><a href="https://github.com/LawrieDrew/Book-Search.git">Google Book Search Github</a></li>
+                <li><a href="https://lawriedrew.github.io/Book-Search/">Google Book Search Deployed</a></li>
                 <li><a href="https://www.instagram.com/getgonegoods/">Jewelry Instagram</a></li>
+                
             </ul>
         </Jumbotron>
     )

@@ -12,7 +12,7 @@ function About(){
             <Container>
                 <Row>
                     <Col>
-                    <img id='portrait' src="./images/Me.jpg" alt='Picture of Me, One and Only'/>
+                    <img id='portrait' src="../images/Me.jpg" alt='Picture of Me'/>
                     </Col>
                     <Col>
                     <h1>About Me</h1>
